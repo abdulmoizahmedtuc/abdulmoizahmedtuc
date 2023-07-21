@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Moiz</h1>
-<h3 align="center">A passionate software quality assurance engineer</h3>
-<img align="right" alt="I did it" width="400" src="https://www.google.com/search?q=test+automationengineer+gif&tbm=isch&ved=2ahUKEwjN5rOi8qCAAxXFnCcCHZCZCRsQ2-cCegQIABAA&oq=test+automationengineer+gif&gs_lcp=CgNpbWcQAzoGCAAQBxAeOggIABAFEAcQHlDTEliyLGD1LWgBcAB4AIABmAKIAbYPkgEGMTEuMy4zmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=jQy7ZI3sKcW5nsEPkLOm2AE&bih=722&biw=1600#imgrc=pHlnAGUEktA1rM">
+<h3 align="center">A passionate Software Quality Assurance Engineer</h3>
+<img align="right" alt="I did it" width="400" src="https://www.lambdatest.com/resources/images/AridSmoggyAsianelephant-small.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmoizahmedtuc&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmoizahmedtuc" /> </p>
 
