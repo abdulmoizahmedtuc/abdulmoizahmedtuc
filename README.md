@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Moiz</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer</h3>
-<img align="right" alt="I can do it" title="I can do it" width="400" src="https://www.lambdatest.com/resources/images/AridSmoggyAsianelephant-small.gif">
+<img align="right" alt="I can do it" title="Where? You can not pass without the quality check" width="400" src="https://www.lambdatest.com/resources/images/AridSmoggyAsianelephant-small.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moizahmedtuc&label=Profile%20views&color=0e75b6&style=plastic" alt="moizahmedtuc" /> </p>
