@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Moiz</h1>
-<h3 align="center">I succeed where others fail.
-Source: 50 Inspirational Quotes About Software Testing - QA Madness Software testing company</h3>
+<h3 align="center">I succeed where others fail</h3>
 <img align="right" alt="I can do it" title="Where? You can not pass without the quality check" width="400" src="https://www.lambdatest.com/resources/images/AridSmoggyAsianelephant-small.gif">
 
 
